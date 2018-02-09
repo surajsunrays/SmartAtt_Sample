@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartAtt_Sample</string>
+    <string name="hello">Hello SmartAtt</string>
+    <string name="applogo">SmartAtt</string>
+</resources>
